@@ -99,7 +99,7 @@ cd 3Tier-project-Terraform
 ALB DNS name,RDS endpoint
 
 # Author 
-Gaju Sawase
+Zaid Lashkari
 Aspiring AWS DevOps Engineer
 
 
